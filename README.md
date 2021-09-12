@@ -1,6 +1,6 @@
 # Physics 375: Experimental Physics III - Electromagnetic Waves, Optics and Modern Physics
 
-A repository containing all programs & scripts used in my optics lab. Data collection and error analysis is done using MATLAB and Python.
+A repository containing programs & scripts used in my optics lab. Data collection and error analysis is done using MATLAB and Python.
 
 ## Lab 0: MATLAB and LabJack Programming
 This experiment introduced me to MATLAB and its use with data collection in tandem with LabJack.
