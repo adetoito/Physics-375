@@ -7,9 +7,7 @@ This experiment introduced me to MATLAB and its use with data collection in tand
 
 #### `rand_script(N)`
 A simple function that operates on a uniformly distributed continuous random variable on the interval [0, 1].
-
 The argument N specifies how many numbers within the interval to generate and store in an array.
 
 Output is an array containing the mean and uncertainty on the mean of the N-sized array.
-
 The mean and uncertainty are also printed out.
